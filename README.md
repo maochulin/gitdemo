@@ -1,4 +1,4 @@
 # gitdemo
 helloworld
 hello git
-now master
+now ok
